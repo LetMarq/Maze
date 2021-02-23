@@ -1,3 +1,3 @@
-# Maze2
+# Maze
 
 Developed with Unreal Engine 4
